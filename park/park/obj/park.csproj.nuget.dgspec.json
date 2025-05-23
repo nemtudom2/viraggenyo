@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\park\\park\\park.csproj": {}
+    "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\viraggenyo\\park\\park\\park.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\park\\park\\park.csproj": {
+    "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\viraggenyo\\park\\park\\park.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\park\\park\\park.csproj",
+        "projectUniqueName": "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\viraggenyo\\park\\park\\park.csproj",
         "projectName": "park",
-        "projectPath": "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\park\\park\\park.csproj",
+        "projectPath": "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\viraggenyo\\park\\park\\park.csproj",
         "packagesPath": "C:\\Users\\SzaboIstvan1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\park\\park\\obj\\",
+        "outputPath": "C:\\Users\\SzaboIstvan1\\Desktop\\sadf\\viraggenyo\\park\\park\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

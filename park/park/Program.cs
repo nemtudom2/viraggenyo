@@ -36,3 +36,18 @@ Console.WriteLine(string.Join(", ", sorszamok)); ;
 Console.WriteLine("agyas");
 int inp = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(agyasok.Count(x => x.Contains(inp)));
+string szin = "Ezt az agyast nem utltettek be";
+for (int i = 0; i<agyasok.Count; i++) { 
+    if (agyasok[i].Contains(inp)) {
+        szin = allomany[i][2];
+        break;
+    }
+}
+Console.WriteLine(szin);
+HashSet<string> agyasszinei = new HashSet<string>();
+for (int i = 0; i < agyasok.Count; i++) { 
+    if (agyasok[i].Contains(inp)) {
+        agyasszinei.Add(allomany[i][2]);
+    }
+}
+Console.WriteLine(string.Join(", ", agyasszinei.ToList()));
