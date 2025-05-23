@@ -1,0 +1,15 @@
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\bin\Debug\net8.0\gsfadsadffasdf.exe
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\bin\Debug\net8.0\gsfadsadffasdf.deps.json
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\bin\Debug\net8.0\gsfadsadffasdf.runtimeconfig.json
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\bin\Debug\net8.0\gsfadsadffasdf.dll
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\bin\Debug\net8.0\gsfadsadffasdf.pdb
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.AssemblyInfoInputs.cache
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.AssemblyInfo.cs
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.csproj.CoreCompileInputs.cache
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.sourcelink.json
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.dll
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\refint\gsfadsadffasdf.dll
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.pdb
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\gsfadsadffasdf.genruntimeconfig.cache
+C:\Users\SzaboIstvan1\Desktop\sadf\viraggenyo\gsfadsadffasdf\gsfadsadffasdf\obj\Debug\net8.0\ref\gsfadsadffasdf.dll
